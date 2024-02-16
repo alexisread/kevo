@@ -1,13 +1,21 @@
 # kevo
 Mirror of Kevo 0.9b6 by Antero Taivalsaari from https://www.macintoshrepository.org/52313-kevo-0-9b6
+<br><br>
+![screenshot of Kevo](./kevodesk.jpg)
+
+<br>
 I found this via https://www.bradrodriguez.com/papers/oofs.htm
-Kevo is a prototype-based language related to forth. It uses purely concatenative inheritance, see
+
+Kevo is a prototype-based language related to forth.
+>Kevo is a prototype-based object-oriented system build around a very simple object model. Unlike most object-oriented systems, Kevo does not have classes. And unlike the few other prototype-based object-oriented systems (such as Self), Kevo does not feature delegation. Instead of classes and delegation, Kevo is based on concatenation: unrestricted composition of object interfaces. In concatenation, objects are derived from each other simply by cloning (copying) and subsequently modifying them so as to differentiate them from each other. The Kevo system automatically maintains information about clone families (groups of similar objects) and their derivation relationships. 
+<br><br>
+Taivalsaari, Antero. (1993). Kevo User's Guide. Victoria, B.C.
+
+ It uses purely concatenative inheritance, see
 https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819
 
-To summarize from this link:
-**Concatenative Inheritance: The Most Commonly Used Inheritance You’ve Never Heard Of**
-
-Because dynamic object extension is so common in JavaScript, and so fundamental to so many common JavaScript idioms, it is the most commonly used form of inheritance in JavaScript. It is not widely recognized as such because it is not what people think of when they think of the word, “inheritance”.
+To summarize from the above link:
+>Because dynamic object extension is so common in JavaScript, and so fundamental to so many common JavaScript idioms, it is the most commonly used form of inheritance in JavaScript. It is not widely recognized as such because it is not what people think of when they think of the word, “inheritance”.
 
 # Licence is replicated below:
 KEVO LICENSE

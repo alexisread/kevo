@@ -1,0 +1,1 @@
+\ Kevo Kernel\ (c) Antero Taivalsaari 1991-1992\ Master demo\ -----------------------------------------------------------------------------\ Make the current window smaller275 110 window @ setWindowSize." Loading all the demo programs into memory..." cr" demo1.kevo" from" demo2.kevo" from" demo3.kevo" from" demo4.kevo" fromRoot CD

@@ -1,0 +1,1 @@
+/* Kevo -- a prototype-based object-oriented language *//* (c) Antero Taivalsaari 1991-1993 				  *//* Some parts (c) Antero Taivalsaari 1986-1988 		  *//* files.h: File management internals 				  */void	initFiles();void 	pushToIFS();void	pushInfile();void	popOutfile();void	pushToOFS();void	pushOutfile();void	popOutfile();

@@ -1,0 +1,1 @@
+/* Kevo -- a prototype-based object-oriented language *//* (c) Antero Taivalsaari 1991-1993 				  *//* Some parts (c) Antero Taivalsaari 1986-1988 		  *//* portPrim.h: Non-portable primitives				  */void 	initPortedPrims();
