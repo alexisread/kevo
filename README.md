@@ -11,10 +11,13 @@ Kevo is a prototype-based language related to forth.
 <br><br>
 Taivalsaari, Antero. (1993). Kevo User's Guide. Victoria, B.C.
 
- It uses purely concatenative inheritance, see
+>A prototype-based object-oriented language written for Macintosh by Antero Taivalsaari at UTA, Finland. Kevo is built around a threaded code interpreter and features a unique prototype-based object model (which is based neither on classes nor Self-style delegation), pre-emptive multitasking, cooperative multitasking, dynamic memory management, an icon-based object browser and editor modelled loosely after Mac Finder. Kevo's syntax is close to Forth and its semantics resembles Self and Omega.
+<br><br>
+TR DCS-197-19, U Victoria, June 1992
+
+It uses purely concatenative inheritance, which Javascript also uses, see
 https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819
 
-To summarize from the above link:
 >Because dynamic object extension is so common in JavaScript, and so fundamental to so many common JavaScript idioms, it is the most commonly used form of inheritance in JavaScript. It is not widely recognized as such because it is not what people think of when they think of the word, “inheritance”.
 
 # Licence is replicated below:
